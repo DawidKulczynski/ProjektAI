@@ -16,5 +16,7 @@ Plik ```index.html``` należy dodatkowo przenieść do folderu templates w miejs
 
 Po spełnieniu tych warunków program jest gotowy do uruchomienia.
 
+Uruchomienie programu spowoduje stworzenie folderu uploads dla plików przesyłanych przez urzytkowników oraz po skompilowaniu pliku ```age_prediction_model.h5``` z zapisanym modelem ai.
+
 Po uruchomieniu można otworzyć przeglądarkę i przejść do http://127.0.0.1:5000/
 
